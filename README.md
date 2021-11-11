@@ -7,3 +7,5 @@ Second, I have made [Illusion Browser](https://github.com/chatter-droid/illusion
 And finally, I have [snack](https://chatter-droid.github.io/snack/), a command line interface that print things on the screen. It was originally a joke, but i published it on  GitHub.
 
 ## I hope you like my projects, see you !
+
+oh that was stressing...
