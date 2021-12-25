@@ -13,12 +13,12 @@
 # Try to guess in which language I did them ! 🤔
 
 ## Alpha 'Hello World !' example
-`#include "Alpha.h"
-using namespace Alpha;
+`#include "Alpha.h"`
+`using namespace Alpha;`
 
-Func main() {
-  SPrint("Hello World !");
-}
+`Func main() {`
+`  SPrint("Hello World !");`
+`}`
 `
 ## I hope you like my projects, see you !
 
