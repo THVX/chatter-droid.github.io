@@ -6,19 +6,21 @@
 
 ## My projects
 
-- Basically, OpenWhitespace is just an interpreter like others. But it runs WhiteSpace, an exotic language. (Like Brainfuck, Ook, or LOLCODE). 🔭
-- snack is a command line interface that prints thing on the screen. 💬
-- My most precious project is Alpha (or AlphaC++). It's a C/C++ library designed for beginners to create a console apps with an esasy syntax.❤️
-- Illusion Browser is a web browser for Android. 👯
+* Basically, OpenWhitespace is just an interpreter like others. But it runs WhiteSpace, an exotic language. (Like Brainfuck, Ook, or LOLCODE). 🔭
+* snack is a command line interface that prints thing on the screen. 💬
+* My most precious project is Alpha (or AlphaC++). It's a C/C++ library designed for beginners to create a console apps with an esasy syntax.❤️
+* Illusion Browser is a web browser for Android. 👯
 # Try to guess in which language I did them ! 🤔
 
 ## Alpha 'Hello World !' example
-`#include "Alpha.h" `
-`using namespace Alpha;  `
+```
+#include "Alpha.h"
+using namespace Alpha;
 
-`Func main() { `
-`  SPrint("Hello World !"); `
-`}`
+Func main() {
+  SPrint("Hello World !");
+}
+```
 ## I hope you like my projects, see you !
 
 oh that was stressing...
