@@ -22,6 +22,12 @@ Func main() {
   SPrint("Hello World !");
 }
 ```
+## Downloads
+* [OpenWhitespace latest](https://github.com/chatter-droid/openwhitespace/releases/download/1.0.0/openwhitespace.zip)
+* [snack latest](https://github.com/chatter-droid/snack/releases/download/v1.0/snack.zip)
+* [Illusion Browser latest](https://github.com/chatter-droid/illusion-browser/releases/download/illusion1.0/_Illusion_Browser_14689917.apk)
+* [Alpha latest](https://github.com/chatter-droid/Alpha/archive/refs/heads/main.zip)
+
 ## I hope you like my projects, see you !
 
 oh that was stressing...
